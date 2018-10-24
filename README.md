@@ -8,3 +8,6 @@ Using ingredient tags, our Pug-Chef will suggest a random recipe using an ingred
 For a wider variety, add your own recipes using the submission form!
 
 RST was created by Jim Witt and Anna Bobcova between April 2018-June 2018, for the Python portion of Computation and Mindfulness taught by Richard Weiss, Spring 2018.
+
+------------
+Repo created as part of an effort to upload my projects to GitHub as I am learning to use it - AB 10/23/2018
