@@ -1,0 +1,13 @@
+To submit a recipe to the library, follow the following steps:
+
+1. Enter recipe name in the field at the top of the form, click 'Submit'. The recipe name will appear below the field.
+
+2. Add names of ingredients, singular, into the 'Ingredients' field, one at a time, by typing in the ingredient and clicking 'Add'. The ingredients will be automatically copied to the 'Directions' field below, to assist in adding ingredient quantities to your recipe's directions.
+
+3. Enter directions for your recipe below the 'Ingredients' field. You will 
+
+4. Select a photo of a finished product to accompany your recipe by clicking 'File' on the right hand side of the form. Browse your directories to select a photo. Supported formats are .bmp, .jpg, .png.
+
+5. Click 'Format' for the program to format your recipe. 
+
+6. Click 'Save' to close the window.

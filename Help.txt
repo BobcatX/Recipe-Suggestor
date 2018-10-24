@@ -1,0 +1,16 @@
+Welcome to Recipe Suggestor Tool!
+
+To request a recipe suggestion, follow the following steps:
+
+1. Under the title, enter in up to *two* ingredients you have on hand one at a time:
+	- Type in your ingredient (singular)
+	- Click 'Add'
+	- Entered ingredient will display to the right of the input box.
+
+2. Click 'Search', a recipe will be suggested to you.
+
+3. Click 'See Directions for This Recipe' to see full instructions for the recipe suggested.
+
+4. If you want to see a different recipe using the same ingredients, click 'See Another Recipe'
+
+To reset the search, click 'Reset' under the ingredient input box.
